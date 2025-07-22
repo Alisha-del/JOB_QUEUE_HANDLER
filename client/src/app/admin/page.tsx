@@ -12,9 +12,7 @@ interface ImportLog {
   failedJobs: { job: any; reason: string }[];
 }
 
-const API_BASE = typeof window !== "undefined"
-  ? `${window.location.protocol}//${window.location.hostname}:5000`
-  : "";
+const API_BASE = "";
 
 export default function AdminDashboard() {
   const [logs, setLogs] = useState<ImportLog[]>([]);

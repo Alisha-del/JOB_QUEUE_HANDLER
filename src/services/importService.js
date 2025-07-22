@@ -1,4 +1,4 @@
-const { jobQueue } = require('../app');
+const { jobQueue } = require('../queue/jobQueue');
 const { fetchAllJobs } = require('../jobs/fetchJobs');
 const config = require('../../config/default');
 

@@ -19,6 +19,6 @@ module.exports = {
     'https://jobicy.com/?feed=job_feed&job_categories=copywriting',
     'https://jobicy.com/?feed=job_feed&job_categories=business',
     'https://jobicy.com/?feed=job_feed&job_categories=management',
-    'https://www.higheredjobs.com/rss/articleFeed.cfm',
+    // 'https://www.higheredjobs.com/rss/articleFeed.cfm',
   ],
 }; 
