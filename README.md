@@ -88,13 +88,10 @@ A scalable system for importing jobs from multiple external APIs, processing the
   ```
 - Check backend and worker terminal windows for error logs if something is not working as expected.
 
-## Contribution
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-MIT 
 
 ## Demo
+
+![Landing Page Screenshot](docs/img2.png)
 
 ![Admin Dashboard Screenshot](docs/img3.png)
 
